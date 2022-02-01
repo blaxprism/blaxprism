@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blaxprism&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaxprism&layout=compact&langs_count=7&theme=aura"/>
 </div>
-
+<hr/>
 <div style="display: inline_block">
   <img align="center" alt="blaxprism-cpp-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   <img align="center" alt="blaxprism-php-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -18,7 +18,7 @@
   <a href="https://www.youtube.com/channel/UC2gkbtLwh3MwcMQ6D0AhLDA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/blaxprism" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/fabr%C3%ADcio-jos%C3%A9-brito-839875223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <br/><br/><hr/>
   ![Snake animation](https://github.com/blaxprism/blaxprism/blob/output/github-contribution-grid-snake.svg)
  
 </div>
