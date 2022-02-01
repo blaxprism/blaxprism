@@ -5,15 +5,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaxprism&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="blaxprism-cpp-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   <img align="center" alt="blaxprism-php-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="blaxprism-ruby-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
   <img align="center" alt="blaxprism-html5-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="blaxprism-css3-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="right" alt="blax-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t39.30808-6/272149514_2066412740175109_8115317997657909900_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yV0cWYvzhj8AX_O92fm&_nc_ht=scontent.fcgh11-1.fna&oh=00_AT9AdPCGubmfXTxF2ErWD_We7RvNdu5kBTv3E2cKA7FDPQ&oe=61FE4A04">
+  <img align="right" alt="blax-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t39.30808-6/272149514_2066412740175109_8115317997657909900_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yV0cWYvzhj8AX_O92fm&_nc_ht=scontent.fcgh11-1.fna&oh=00_AT9AdPCGubmfXTxF2ErWD_We7RvNdu5kBTv3E2cKA7FDPQ&oe=61FE4A04" />
 </div>
-  
+  </a>
   ##
  
 <div> 
