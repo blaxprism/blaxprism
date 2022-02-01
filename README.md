@@ -13,7 +13,7 @@
   <img align="center" alt="blaxprism-css3-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="right" alt="blax-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t39.30808-6/272149514_2066412740175109_8115317997657909900_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yV0cWYvzhj8AX_O92fm&_nc_ht=scontent.fcgh11-1.fna&oh=00_AT9AdPCGubmfXTxF2ErWD_We7RvNdu5kBTv3E2cKA7FDPQ&oe=61FE4A04" />
 </div>
- 
+ <hr/>
 <div> 
   <a href="https://www.youtube.com/channel/UC2gkbtLwh3MwcMQ6D0AhLDA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/blaxprism" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
