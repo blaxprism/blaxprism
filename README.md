@@ -11,7 +11,7 @@
   <img align="center" alt="blaxprism-ruby-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
   <img align="center" alt="blaxprism-html5-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="blaxprism-css3-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="right" alt="blax-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t39.30808-6/272149514_2066412740175109_8115317997657909900_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yV0cWYvzhj8AX_O92fm&_nc_ht=scontent.fcgh11-1.fna&oh=00_AT9AdPCGubmfXTxF2ErWD_We7RvNdu5kBTv3E2cKA7FDPQ&oe=61FE4A04" />
+  <img align="right" alt="blax-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh11-1.fna.fbcdn.net/v/t51.2885-19/s150x150/272056900_1270048123478664_2493932329465008118_n.jpg?_nc_ht=instagram.fcgh11-1.fna.fbcdn.net&amp;_nc_cat=100&amp;_nc_ohc=FP_2yIsM_uAAX8pStqN&amp;edm=ALbqBD0BAAAA&amp;ccb=7-4&amp;oh=00_AT9PI6xbdJ2LR1lGz-C5AV_u1ZnYX6f59tOvo9ky2wtCnQ&amp;oe=620F568F&amp;_nc_sid=9a90d6" />
 </div>
  <hr/>
 <div> 
