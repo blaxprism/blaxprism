@@ -1,4 +1,4 @@
-<h3>&nbsp;Olá =) </h3>
+<h3>Olá =) </h3>
 <div align="center">
   <a href="https://github.com/blaxprism">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blaxprism&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
