@@ -1,4 +1,4 @@
-<table ><tr><td bgcolor="#ad1117" width="100%" border="0px">
+<table ><tr><td style="background-color: #ad1117;border-width:0px;" width="100%" border="0px">
   <h3>&nbsp;&nbsp;Olá =) </h3>
   <div align="center">
     <a href="https://github.com/blaxprism">
