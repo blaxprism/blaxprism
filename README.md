@@ -1,5 +1,5 @@
 ### Olá =)
-<table ><tr><td bgcolor=#ad1117>
+<table ><tr><td bgcolor="#ad1117" width="100%" border="0px">
   <div align="center">
     <a href="https://github.com/blaxprism">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blaxprism&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
