@@ -1,8 +1,8 @@
 <h3>Olá =) </h3>
 <div align="center">
   <a href="https://github.com/blaxprism">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=blaxprism&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaxprism&hide=hack&layout=compact&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=blaxprism&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaxprism&hide=hack&layout=compact&theme=aura"/>
 </div>
 <hr/>
 <div style="display: inline_block">
