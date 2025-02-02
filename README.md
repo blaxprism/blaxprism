@@ -11,7 +11,6 @@
   <img align="center" alt="blaxprism-php-icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="blaxprism-python-icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="blaxprism-mysql-icon" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="right" alt="blax-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/90413455?v=4" />
 </div>
 <hr/>
 <div> 
